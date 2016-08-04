@@ -1,0 +1,45 @@
+_repo: The-Gilded-Age-Part-7._5824
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 5824/5824-h/images/Bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  authors:
+  - agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  - agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speculation -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Businessmen -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Political corruption -- Fiction'
+- GITenberg
+title: The Gilded Age, Part 7.
+url: http://www.gutenberg.org/ebooks/5824
